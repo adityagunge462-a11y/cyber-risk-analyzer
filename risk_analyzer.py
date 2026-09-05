@@ -2,7 +2,6 @@ file_name = input("Enter file name : ")
 file_size = int(input("enter file size : "))
 entropy = input("Enter Entropy : (Low / High : )").lower()
 
-
 source_trusted = input("Is this source trusted (Yes / No):").lower()
 
 print("File name: ",file_name)
